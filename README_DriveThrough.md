@@ -1,6 +1,12 @@
+
 # Drive Through
 
 Drive Through is a problem-solving game developed through the use of Pygame that tasks an individual with achieving a numerical result by driving through squares that suddenly appear on the game map. The user uses arrow keys to control the car, making it move right and left to attempt to drive over the squares that may result in the desired number and avoid the squares that may make the player be further from the number. Essentially, the project utilizes pygame, random, and time modules in conjunction with various pertinent functions and imported assets to create an entertaining situation. 
+
+## Goals
+
+The goals of this project were to utilize the lessons learned in class and apply them to creative and entertaining projects. 
+It is meant to challenge me, Austin Pearl, into seeing how I could use my basic skills and knowledge attained from the class to build something and face the obstacles that may be in my way. 
 
 ## Getting Started
 
